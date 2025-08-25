@@ -1,0 +1,13 @@
+{
+  "name": "Meu Repositório TugaFlix",
+  "extensions": [
+    {
+      "name": "TugaFlix",
+      "version": "1.0",
+      "author": "Roberto",
+      "description": "Extensão para ver filmes do TugaFlix no TLN",
+      "url": "https://www.dropbox.com/scl/fi/zywjji992s961beiim0sj/TugaFlixExtension.zip?rlkey=i40hd2bf4agijychkm93n3hvo&st=btlm0s85&dl=0",
+      "type": "movies"
+    }
+  ]
+}
