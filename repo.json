@@ -1,7 +1,8 @@
 {
-  "name": "TugaFlix Repo",
-  "version": "1.0",
-  "plugins": [
-    "https://github.com/Robsto009/tugaflix/archive/refs/heads/main.zip"
-  ]
+    "name": "Mega repository",
+    "description": "Add all repositories easily.",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://github.com/Robsto009/tugaflix/archive/refs/heads/main.zip"
+    ]
 }
