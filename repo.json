@@ -1,8 +1,8 @@
 {
-    "name": "Mega repository",
-    "description": "Add all repositories easily.",
+    "name": "TugaFlix repository",
+    "description": "Repositório TLN para adicionar o TugaFlix facilmente.",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://github.com/Robsto009/tugaflix/archive/refs/heads/main.zip"
+        "https://raw.githubusercontent.com/Robsto009/plugin.json/refs/heads/main/plugin.json"
     ]
 }
